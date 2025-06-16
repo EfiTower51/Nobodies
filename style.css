@@ -1,6 +1,63 @@
+main{
+    grid-template-columns: auto;
+    font-size: 17px;
+}
+
+img{
+    display:grid;
+    align-items: center;
+    margin: 1px;
+}
+
+div.create {
+  width: 500px;
+  height: 300px;
+  margin: 7px;
+  color: black;
+  border-color: #373737;
+  border-width: 10px 10px 10px 10px;
+  display: grid;
+ 
+}
+
+div.goal {
+  width: 500px;
+  height: min-content;
+  margin: 10px;
+  color: #d3b50d;
+  border-color: #414141;
+  border-width: 10px 10px 10px 10px;
+  display: grid;
+  grid-template-columns: auto;
+  font-size: 17px;
+}
+
+div.contri {
+  width: 650px;
+  height: 250px;
+  margin: 9px;
+  padding: 5px;
+  color: #515151;
+  background-color: aquamarine;
+  display: inline-grid;
+  grid-template-columns: auto;
+  font-size: 15px;
+}
+
+div.member {
+  width: 800px;
+  height: 400px;
+  margin: 7px;
+  padding: 3px;
+  color: #232323;
+  background-color: rgb(197, 194, 194);
+  display: grid;
+  grid-template-columns: auto auto auto 175px;
+}
+
 aside {
   margin-right: 60px;
-  width: 500px;
+  width: 506px;
   font-size: 17px;
 }
 
