@@ -1,9 +1,43 @@
 {
+    "opening":
     {
-        "title": "intro";
-        "dec": "Þe Nobodies 無名組織是一個";
-    }
+        "title": "intro",
+        "doc": "Þe Nobodies 無名組織是一個"
+    },
     
-    
+    "starting":
+    {
+        "title": "create",
+        "doc": "世界很大，人類卻很渺小……"
+    },
+
+    "fixing":
+    {
+        "title":"goal",
+        "doc":"",
+        "hidden":""
+    },
+
+    "working":
+    {
+        "title":"contri",
+        "doc":
+        {
+            0:"",
+            1:"",
+            2:""
+        },
+    },
+
+    "treasure":
+    {
+        "title":"member",
+        "doc":
+        {
+            0:"",
+            1:"",
+            2:""
+        },
+    },
 
 }
